@@ -29,6 +29,7 @@
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.24.7",
     "@babel/preset-env": "^7.25.2",
+    "@babel/runtime": "^7.29.15",
     "@types/jest": "^29.5.12",
     "@types/proper-lockfile": "^4.1.4",
     "@types/tmi.js": "^1.8.6",
